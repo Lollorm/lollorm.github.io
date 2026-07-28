@@ -5,3 +5,5 @@
 Here's my AI agent that learned to play <a href="https://github.com/Lollorm/Super-Mario-Bros-AI"> Super Mario Bros </a>
 
 ![flowers diffusion](https://raw.githubusercontent.com/Lollorm/lollorm.github.io/refs/heads/main/flowers.gif)
+
+Flower images generated through diffusion
